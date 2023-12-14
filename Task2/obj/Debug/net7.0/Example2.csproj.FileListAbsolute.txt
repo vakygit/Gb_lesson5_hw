@@ -1,0 +1,14 @@
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\EXAPMLE2\Example2\bin\Debug\net7.0\Example2.exe
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\EXAPMLE2\Example2\bin\Debug\net7.0\Example2.deps.json
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\EXAPMLE2\Example2\bin\Debug\net7.0\Example2.runtimeconfig.json
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\EXAPMLE2\Example2\bin\Debug\net7.0\Example2.dll
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\EXAPMLE2\Example2\bin\Debug\net7.0\Example2.pdb
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\EXAPMLE2\Example2\obj\Debug\net7.0\Example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\EXAPMLE2\Example2\obj\Debug\net7.0\Example2.AssemblyInfoInputs.cache
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\EXAPMLE2\Example2\obj\Debug\net7.0\Example2.AssemblyInfo.cs
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\EXAPMLE2\Example2\obj\Debug\net7.0\Example2.csproj.CoreCompileInputs.cache
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\EXAPMLE2\Example2\obj\Debug\net7.0\Example2.dll
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\EXAPMLE2\Example2\obj\Debug\net7.0\refint\Example2.dll
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\EXAPMLE2\Example2\obj\Debug\net7.0\Example2.pdb
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\EXAPMLE2\Example2\obj\Debug\net7.0\Example2.genruntimeconfig.cache
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\EXAPMLE2\Example2\obj\Debug\net7.0\ref\Example2.dll

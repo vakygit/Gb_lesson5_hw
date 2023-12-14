@@ -1,0 +1,14 @@
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\Example3(2)\exlnjmfedwkfsc\bin\Debug\net7.0\exlnjmfedwkfsc.exe
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\Example3(2)\exlnjmfedwkfsc\bin\Debug\net7.0\exlnjmfedwkfsc.deps.json
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\Example3(2)\exlnjmfedwkfsc\bin\Debug\net7.0\exlnjmfedwkfsc.runtimeconfig.json
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\Example3(2)\exlnjmfedwkfsc\bin\Debug\net7.0\exlnjmfedwkfsc.dll
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\Example3(2)\exlnjmfedwkfsc\bin\Debug\net7.0\exlnjmfedwkfsc.pdb
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\Example3(2)\exlnjmfedwkfsc\obj\Debug\net7.0\exlnjmfedwkfsc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\Example3(2)\exlnjmfedwkfsc\obj\Debug\net7.0\exlnjmfedwkfsc.AssemblyInfoInputs.cache
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\Example3(2)\exlnjmfedwkfsc\obj\Debug\net7.0\exlnjmfedwkfsc.AssemblyInfo.cs
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\Example3(2)\exlnjmfedwkfsc\obj\Debug\net7.0\exlnjmfedwkfsc.csproj.CoreCompileInputs.cache
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\Example3(2)\exlnjmfedwkfsc\obj\Debug\net7.0\exlnjmfedwkfsc.dll
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\Example3(2)\exlnjmfedwkfsc\obj\Debug\net7.0\refint\exlnjmfedwkfsc.dll
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\Example3(2)\exlnjmfedwkfsc\obj\Debug\net7.0\exlnjmfedwkfsc.pdb
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\Example3(2)\exlnjmfedwkfsc\obj\Debug\net7.0\exlnjmfedwkfsc.genruntimeconfig.cache
+C:\Users\lerak\Documents\GB 23-24\Знакомство с языками программирования\Examples\Example3(2)\exlnjmfedwkfsc\obj\Debug\net7.0\ref\exlnjmfedwkfsc.dll
